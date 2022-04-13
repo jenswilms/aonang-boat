@@ -1,0 +1,32 @@
+h1 {
+  padding: 0;
+  margin: 0;
+}
+
+.welcomeMessage h1 {
+  margin-bottom: 20px;
+}
+
+.title {
+  margin-bottom: 10px;
+  font-weight: 700;
+  font-size: 1.1em;
+}
+
+.allDestinations {
+  margin-top: 20px;
+}
+
+p,
+ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.destination {
+  margin-bottom: 15px;
+}
+
+.destinationTitle {
+  font-weight: 700;
+}
